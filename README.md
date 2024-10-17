@@ -1,5 +1,5 @@
-# video2gif
-https://video2gif.now.sh/
+# offline video2gif
+
 
 Covert video to gif on your browser, client-side only!
 
